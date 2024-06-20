@@ -10,7 +10,7 @@ Cabe mencionar que tomamos como ejemplo el diseño de base de datos compartido p
 
 [drop all objects](https://github.com/jcarlos03100890/modeladodatabases/blob/master/BikeStores%20Sample%20Database%20-%20drop%20all%20objects.sql)
 
-[create objects]()
+[create objects](https://github.com/jcarlos03100890/modeladodatabases/blob/master/BikeStores%20Sample%20Database%20-%20create%20objects.sql)
 
 
 Referencia:
